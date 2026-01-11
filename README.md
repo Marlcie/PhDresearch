@@ -1,3 +1,3 @@
 # PhDresearch
 
-Under construction. Go to https://www.marlcie.github.io for website.
+Under construction. Go to marlcie.github.io for website.
